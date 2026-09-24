@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Application output
+output/
+
+# AI model files
+*.pt
+*.onnx
+*.engine
+
+# OS files
+Thumbs.db
+.DS_Store
